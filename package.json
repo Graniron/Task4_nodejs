@@ -1,0 +1,14 @@
+{
+  "name": "task4_node",
+  "version": "1.0.0",
+  "description": "Task #4 - node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roman Yavoriv",
+  "license": "ISC",
+  "dependencies": {
+    "xml-parser": "^1.2.1"
+  }
+}

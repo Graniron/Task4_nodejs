@@ -1,0 +1,35 @@
+[ Organization {
+    name: 'techmagic ',
+    users: 
+     [ 'User {\n  id: \'1 \',\n  name: \'igor \',\n  company: \'techmagic \',\n  gender: \'male \',\n  age: \'24 \' }',
+       'User {\n  id: \'7 \',\n  name: \'artem \',\n  company: \'techmagic \',\n  gender: \'male \',\n  age: \'24 \' }' ] },
+  Organization {
+    name: 'google ',
+    users: 
+     [ 'User {\n  id: \'2 \',\n  name: \'roman \',\n  company: \'google \',\n  gender: \'male \',\n  age: \'29 \' }',
+       'User {\n  id: \'9 \',\n  name: \'maria \',\n  company: \'google \',\n  gender: \'female \',\n  age: \'18 \' }' ] },
+  Organization {
+    name: 'softserve ',
+    users: [ 'User {\n  id: \'3 \',\n  name: \'artur \',\n  company: \'softserve \',\n  gender: \'male \',\n  age: \'21 \' }' ] },
+  Organization {
+    name: 'epam ',
+    users: 
+     [ 'User {\n  id: \'4 \',\n  name: \'ira \',\n  company: \'epam \',\n  gender: \'female \',\n  age: \'22 \' }',
+       'User {\n  id: \'6 \',\n  name: \'yura \',\n  company: \'epam \',\n  gender: \'male \',\n  age: \'31 \' }' ] },
+  Organization {
+    name: 'exoft ',
+    users: 
+     [ 'User {\n  id: \'5 \',\n  name: \'vira \',\n  company: \'exoft \',\n  gender: \'female \',\n  age: \'28 \' }',
+       'User {\n  id: \'8 \',\n  name: \'andriy \',\n  company: \'exoft \',\n  gender: \'male \',\n  age: \'33 \' }',
+       'User {\n  id: \'12 \',\n  name: \'tamara \',\n  company: \'exoft \',\n  gender: \'female \',\n  age: \'26 \' }' ] },
+  Organization {
+    name: 'luxoft ',
+    users: [ 'User {\n  id: \'10 \',\n  name: \'taras \',\n  company: \'luxoft \',\n  gender: \'male \',\n  age: \'23 \' }' ] },
+  Organization {
+    name: 'microsoft ',
+    users: 
+     [ 'User {\n  id: \'11 \',\n  name: \'dmytro \',\n  company: \'microsoft \',\n  gender: \'male \',\n  age: \'25 \' }',
+       'User {\n  id: \'14 \',\n  name: \'michaylo \',\n  company: \'microsoft \',\n  gender: \'male \',\n  age: \'29 \' }' ] },
+  Organization {
+    name: 'kindgeek ',
+    users: [ 'User {\n  id: \'13 \',\n  name: \'bogdan \',\n  company: \'kindgeek \',\n  gender: \'male \',\n  age: \'28 \' }' ] } ]

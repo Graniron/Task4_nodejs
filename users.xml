@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <users>
+    <user>
+      <id> 1 </id>
+      <name> igor </name>
+      <company> techmagic </company>
+      <gender> male </gender>
+      <age> 24 </age>
+    </user>
+
+   <user>
+      <id> 2 </id>
+      <name> roman </name>
+      <company> google </company>
+      <gender> male </gender>
+      <age> 29 </age>
+    </user>
+
+    <user>
+      <id> 3 </id>
+      <name> artur </name>
+      <company> softserve </company>
+      <gender> male </gender>
+      <age> 21 </age>
+    </user>
+
+    <user>
+      <id> 4 </id>
+      <name> ira </name>
+      <company> epam </company>
+      <gender> female </gender>
+      <age> 22 </age>
+    </user>
+
+    <user>
+      <id> 5 </id>
+      <name> vira </name>
+      <company> exoft </company>
+      <gender> female </gender>
+      <age> 28 </age>
+    </user>
+
+    <user>
+      <id> 6 </id>
+      <name> yura </name>
+      <company> epam </company>
+      <gender> male </gender>
+      <age> 31 </age>
+    </user>
+
+    <user>
+      <id> 7 </id>
+      <name> artem </name>
+      <company> techmagic </company>
+      <gender> male </gender>
+      <age> 24 </age>
+    </user>
+
+    <user>
+      <id> 8 </id>
+      <name> andriy </name>
+      <company> exoft </company>
+      <gender> male </gender>
+      <age> 33 </age>
+    </user>
+
+    <user>
+      <id> 9 </id>
+      <name> maria </name>
+      <company> google </company>
+      <gender> female </gender>
+      <age> 18 </age>
+    </user>
+
+    <user>
+      <id> 10 </id>
+      <name> taras </name>
+      <company> luxoft </company>
+      <gender> male </gender>
+      <age> 23 </age>
+    </user>
+
+    <user>
+      <id> 11 </id>
+      <name> dmytro </name>
+      <company> microsoft </company>
+      <gender> male </gender>
+      <age> 25 </age>
+    </user>
+
+    <user>
+      <id> 12 </id>
+      <name> tamara </name>
+      <company> exoft </company>
+      <gender> female </gender>
+      <age> 26 </age>
+    </user>
+
+    <user>
+      <id> 13 </id>
+      <name> bogdan </name>
+      <company> kindgeek </company>
+      <gender> male </gender>
+      <age> 28 </age>
+    </user>
+
+    <user>
+      <id> 14 </id>
+      <name> michaylo </name>
+      <company> microsoft </company>
+      <gender> male </gender>
+      <age> 29 </age>
+    </user>
+
+  </users>
